@@ -1,0 +1,17 @@
+body {
+    background-image: url(video/shrek.jpg);
+    background-repeat: no-repeat;
+    background-size: 37cm 18cm;
+}
+
+.hea {
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    margin-left: 16cm;
+    margin-top: 3cm;
+}
+
+.rr {
+    margin-left: 9cm;
+}
